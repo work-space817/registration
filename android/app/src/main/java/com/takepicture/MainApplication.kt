@@ -1,4 +1,4 @@
-package com.takepicture
+package com.testRegister
 
 import android.app.Application
 import com.facebook.react.PackageList
